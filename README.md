@@ -1,6 +1,7 @@
 # 3-tier-highly-available-vpc-design
 
-<img width="2118" height="1886" alt="image" src="https://github.com/user-attachments/assets/f558ee48-3a51-4a19-8833-862da689aa0c" />
+<img width="3998" height="1567" alt="image" src="https://github.com/user-attachments/assets/442c68e1-444f-4840-a1b9-cc90e2129c5e" />
+
 
 This repository demonstrates a highly available three-tier VPC architecture designed on AWS.
 The architecture follows best practices for security, scalability, and fault tolerance, using public and private subnets across multiple Availability Zones.
