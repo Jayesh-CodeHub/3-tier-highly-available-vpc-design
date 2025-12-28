@@ -23,7 +23,8 @@ The system follows a **three-tier network architecture**:
 
 ## 🖼️ Architecture Diagram
 
-<img width="3998" height="1567" alt="Three Tier VPC Architecture Diagram" src="https://github.com/user-attachments/assets/442c68e1-444f-4840-a1b9-cc90e2129c5e" />
+<img width="2248" height="1852" alt="image" src="https://github.com/user-attachments/assets/b3fdde13-dee1-4ba9-abc3-8e5707d01586" />
+
 
 ---
 
